@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "6757b39f773eaa5663ae8958"
+  },
+  "id_imagen": "img34",
+  "id_paciente": 123,
+  "fecha": "2024-12-03",
+  "tipo": "rayosx",
+  "zona_estudio": "brazo",
+  "preliminar": 78,
+  "ruta": "hgafsj",
+  "image_path": "juguitohit"
+}]

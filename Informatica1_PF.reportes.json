@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "6757b47d773eaa5663ae8959"
+  },
+  "id_imagen": "img34",
+  "id_paciente": 8,
+  "fecha": "2024-12-12",
+  "tipo_imagen": "h",
+  "zona_estudio": "j",
+  "ruta": "jshhsa",
+  "analisis_IA": {
+    "condicion_sugerida": "hujo",
+    "probabilidad_%": 89,
+    "notas": "hhJJSBB"
+  },
+  "notas_tecnicas": {
+    "id_tecnica": "12",
+    "fecha_nota": "2024-12-12",
+    "texto": "jhsuah"
+  }
+}]
